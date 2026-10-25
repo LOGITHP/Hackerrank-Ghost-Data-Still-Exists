@@ -223,7 +223,3 @@ pytest
 
 ---
 
-## 7. Submission Link
-
-HackerRank Orchestrate challenge portal:
-https://wwww.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges/ghost-data-still-exists
